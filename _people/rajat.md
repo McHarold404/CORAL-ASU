@@ -1,7 +1,7 @@
 ---
 name: Rajat Aayush Jha
 position: gradstudent
-avatar: 
+avatar: rajat.jpg
 twitter: 
 personal-url: https://www.linkedin.com/in/rajat-aayush-jha-4596b616b/
 ---
