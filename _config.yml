@@ -9,8 +9,8 @@ description:        "The CORAL Lab is an natural language processing research gr
 
 
 # URL
-url:                ""
-baseurl:            ""
+url:                ""https://username.github.io"
+baseurl:            "/asu-coral"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
