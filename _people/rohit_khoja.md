@@ -1,9 +1,9 @@
 ---
-name: Jacob Dineen
+name: Rohit Khoja
 position: gradstudent
-avatar: jacob_dineen.jpg
-twitter: 
-personal-url: https://www.jacobdineen.com/
+avatar: rohit.jpg
+twitter:
+personal-url: linkedin.com/in/rohit-khoja344
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

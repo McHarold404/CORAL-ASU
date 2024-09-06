@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "ARC Lab"
-title:              "ARC Lab at ASU"
-description:        "The ARC Lab is an artificial intelligence research group at Arizona State University."
+name:               "CORAL Lab"
+title:              "CORAL Lab at ASU"
+description:        "The CORAL Lab is an natural language processing research group at Arizona State University."
 
 
 # URL
-url:                
-baseurl:            
+url:                ""
+baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 

@@ -1,9 +1,9 @@
 ---
-name: Zhaonan Li
+name: Rajat Aayush Jha
 position: gradstudent
-avatar: zhaonan_li.jpg
-twitter: ZhaonanLi154270
-personal-url: https://lzn87.github.io/
+avatar: 
+twitter: 
+personal-url: https://www.linkedin.com/in/rajat-aayush-jha-4596b616b/
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

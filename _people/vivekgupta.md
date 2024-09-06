@@ -1,19 +1,19 @@
 ---
-name: Ben Zhou
+name: Vivek Gupta
 position: pi
-avatar: ben_zhou.jpg
-twitter: BenZhou96
-personal-url: http://xuanyu.me
+avatar: Prof_photo.jpg
+twitter: keviv9
+personal-url: https://vgupta123.github.io/
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - Assistant Professor, Arizona State University<br>
 
-<i class="fa fa-envelope-o"></i> `benzhou@asu.edu`
+<i class="fa fa-envelope-o"></i> vgupt140@asu.edu
 
 **Office**<br>
-BYENG 532, 699 S Mill Ave<br>
+BYENG 534, 699 S Mill Ave<br>
 Tempe, AZ 85212
 
 <!-- [Ben Zhou](http://xuanyu.me/) runs his lab at the University of Pennsylvania.

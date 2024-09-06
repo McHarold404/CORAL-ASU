@@ -1,9 +1,9 @@
 ---
-name: Xiao Ye
+name: Vihang Pancholi
 position: gradstudent
-avatar: xiao_ye.jpg
-twitter: XiaoYe1170354
-personal-url: https://itok2000u.github.io/
+avatar: vihang.jpg
+twitter: 
+personal-url: https://www.linkedin.com/in/vihang-pancholi/
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
